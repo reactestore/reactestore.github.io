@@ -2,7 +2,7 @@
   "name": "estore",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://reactestore.github.io/estore",
+  "homepage": "https://reactestore.github.io/estore/hello",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@stripe/react-stripe-js": "^1.4.1",
